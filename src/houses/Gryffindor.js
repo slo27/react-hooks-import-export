@@ -8,4 +8,4 @@ function gryffMascot() {
   console.log("The Lion");
 }
 
-export { colors, gryffMascot };
+export default { colors, gryffMascot };
